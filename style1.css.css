@@ -1,0 +1,41 @@
+
+nav{
+    background-color: black;
+    color: white;
+    padding: 20px;   
+}
+h1,li,ul{
+    display: inline;
+
+}
+ul{
+    margin: 42%;
+}
+li{
+    color: blue;
+    cursor: pointer;
+}
+.receipebox{
+    border-color: black;
+    border-width: 3px;
+    border-style: solid;
+    display: inline-block;
+    width: 255px;
+    cursor: pointer;
+    color: white;
+}
+
+.empty{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    padding: 20px;
+}
+.footer{
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+
+
+
